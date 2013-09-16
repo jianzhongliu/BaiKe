@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>biz</key>
+	<string>200</string>
+	<key>gjj</key>
+	<string>30</string>
+	<key>payStyle</key>
+	<string>1</string>
+	<key>payStyleLabel</key>
+	<string>等额本息</string>
+	<key>ratePercent</key>
+	<string>1.0</string>
+	<key>ratePercentLabel</key>
+	<string>基准利率</string>
+	<key>type</key>
+	<string>1</string>
+	<key>year</key>
+	<string>20</string>
+	<key>yearLabel</key>
+	<string>20年 (240期)</string>
+</dict>
+</plist>

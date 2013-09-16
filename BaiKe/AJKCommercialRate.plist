@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>month</key>
+		<string>6</string>
+		<key>rate</key>
+		<string>5.60</string>
+	</dict>
+	<dict>
+		<key>month</key>
+		<string>12</string>
+		<key>rate</key>
+		<string>6.00</string>
+	</dict>
+	<dict>
+		<key>month</key>
+		<string>36</string>
+		<key>rate</key>
+		<string>6.15</string>
+	</dict>
+	<dict>
+		<key>month</key>
+		<string>60</string>
+		<key>rate</key>
+		<string>6.40</string>
+	</dict>
+	<dict>
+		<key>month</key>
+		<string>360</string>
+		<key>rate</key>
+		<string>6.55</string>
+	</dict>
+</array>
+</plist>
